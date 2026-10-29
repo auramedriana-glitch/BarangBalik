@@ -56,4 +56,6 @@ Data peminjaman disimpan sementara di memori aplikasi. Data akan hilang ketika a
 
 <img width="959" height="501" alt="Cuplikan layar 2026-10-29 225735" src="https://github.com/user-attachments/assets/51126565-ea3e-49e8-b081-89962a1cf38f" />
 <img width="959" height="503" alt="Cuplikan layar 2026-10-29 225208" src="https://github.com/user-attachments/assets/ca72b403-c391-4ff9-b31b-00a3076d2374" />
+<img width="959" height="479" alt="image" src="https://github.com/user-attachments/assets/c6232e75-5ccd-4503-adb1-c30a1bf3ce7b" />
+
 
